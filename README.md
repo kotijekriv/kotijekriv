@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @kotijekriv
-- 👀 I’m Aceflux
 - 🌱 I’m currently learning Swift
 - 💞️ I’m looking to collaborate on anything
 - 📫 Email me!
