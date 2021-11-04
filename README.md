@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kotijekriv
-- 🌱 I’m currently learning Swift
-- 💞️ I’m looking to collaborate on anything
+- 🏫 Student @FOI
+- 🌱 Currently learning Swift & SwiftUI
 - 📫 Email me!
 
 <!---
