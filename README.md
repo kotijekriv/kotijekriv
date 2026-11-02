@@ -1,7 +1,8 @@
-- 👋 Hi, I’m @kotijekriv
-- 🏫 IT Student @FOI
+### Hi, I'm @kotijekriv 👋
+
+I build small, free tools that do one annoying job and run in your browser. Demos and real numbers on [X](https://x.com/kotijekriv).
+
 - 🌱 Swift FTW
-- 📫 Email me!
 
 ### Small tools I've released
 
